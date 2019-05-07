@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author David
+ * @author David Garcia Donaire
  */
 public class Prjava01 {
 
